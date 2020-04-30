@@ -1,0 +1,16 @@
+741152750: system.cpu.dcache: L1D Set 97 Tag 259 LiveTime 640250 DeadTime 5711250 GenerationTime 6351500 CDT 3403750 TickInserted 734801250 LatestAccessTime 735441500 ExchangeTime 741152750
+741275000: system.cpu.dcache: L1D Set 97 Tag 321 LiveTime 158500 DeadTime 4628750 GenerationTime 4787250 CDT 2199000 TickInserted 736487750 LatestAccessTime 736646250 ExchangeTime 741275000
+742066500: system.cpu.dcache: L1D Set 75 Tag 323 LiveTime 297500 DeadTime 698250 GenerationTime 995750 CDT 541750 TickInserted 741070750 LatestAccessTime 741368250 ExchangeTime 742066500
+742781500: system.cpu.dcache: L1D Set 97 Tag 322 LiveTime 86000 DeadTime 4668500 GenerationTime 4754500 CDT 3683000 TickInserted 738027000 LatestAccessTime 738113000 ExchangeTime 742781500
+744284500: system.cpu.dcache: L1D Set 97 Tag 222 LiveTime 5750 DeadTime 5439250 GenerationTime 5445000 CDT 4093000 TickInserted 738839500 LatestAccessTime 738845250 ExchangeTime 744284500
+745082000: system.cpu.dcache: L1D Set 97 Tag 294 LiveTime 580750 DeadTime 3348500 GenerationTime 3929250 CDT 2637000 TickInserted 741152750 LatestAccessTime 741733500 ExchangeTime 745082000
+746927250: system.cpu.dcache: L1D Set 53 Tag 329 LiveTime 41979750 DeadTime 19657500 GenerationTime 61637250 CDT 13864250 TickInserted 685290000 LatestAccessTime 727269750 ExchangeTime 746927250
+747853500: system.cpu.dcache: L1D Set 97 Tag 259 LiveTime 521000 DeadTime 6057500 GenerationTime 6578500 CDT 2574500 TickInserted 741275000 LatestAccessTime 741796000 ExchangeTime 747853500
+747921500: system.cpu.dcache: L1D Set 58 Tag 329 LiveTime 40586500 DeadTime 21033000 GenerationTime 61619500 CDT 7252250 TickInserted 686302000 LatestAccessTime 726888500 ExchangeTime 747921500
+747942000: system.cpu.dcache: L1D Set 63 Tag 323 LiveTime 46000 DeadTime 20709750 GenerationTime 20755750 CDT 20411000 TickInserted 727186250 LatestAccessTime 727232250 ExchangeTime 747942000
+748014000: system.cpu.dcache: L1D Set 35 Tag 307 LiveTime 41872250 DeadTime 20486250 GenerationTime 62358500 CDT 14180750 TickInserted 685655500 LatestAccessTime 727527750 ExchangeTime 748014000
+748062750: system.cpu.dcache: L1D Set 40 Tag 313 LiveTime 15100250 DeadTime 26715000 GenerationTime 41815250 CDT 23819750 TickInserted 706247500 LatestAccessTime 721347750 ExchangeTime 748062750
+748147250: system.cpu.dcache: L1D Set 40 Tag 330 LiveTime 305250 DeadTime 19402000 GenerationTime 19707250 CDT 16422250 TickInserted 728440000 LatestAccessTime 728745250 ExchangeTime 748147250
+748746250: system.cpu.dcache: L1D Set 75 Tag 322 LiveTime 29500 DeadTime 6650250 GenerationTime 6679750 CDT 6419750 TickInserted 742066500 LatestAccessTime 742096000 ExchangeTime 748746250
+749006500: system.cpu.dcache: L1D Set 97 Tag 321 LiveTime 156750 DeadTime 6068250 GenerationTime 6225000 CDT 5890250 TickInserted 742781500 LatestAccessTime 742938250 ExchangeTime 749006500
+749851500: system.cpu.dcache: L1D Set 75 Tag 323 LiveTime 380250 DeadTime 725000 GenerationTime 1105250 CDT 550250 TickInserted 748746250 LatestAccessTime 749126500 ExchangeTime 749851500
